@@ -8,7 +8,7 @@
 
 ## 📊 Database Architecture
 
-*(Insert your ERD screenshot here. If you used the django-extensions or dbdiagram.io method we discussed, replace this text with: `![Database Schema Diagram](path/to/your/erd-image.png)`)*
+![Database Schema Diagram]("D:\MY FILES\AI_AGGREGATOR_WEBAPP\backend\ai_aggregator_erd.png")
 
 ## ⚙️ Target Tech Stack
 * **Framework:** Django / Django REST Framework (DRF)

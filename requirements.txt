@@ -1,0 +1,37 @@
+# setuptools
+# fastapi[standard]
+# django
+# sqlparse
+# psycopg2-binary
+# beautifulsoup4
+# lxml  # Required for fast HTML & XML parsing (use 'lxml' and 'lxml-xml' parsers)
+# django-cors-headers
+# python-decouple
+# pydantic
+# pydantic-settings
+# newspaper3k
+# trafilatura
+# readability-lxml   
+# html2text
+# requests
+# urllib3  # For HTTPAdapter connection pooling
+# cloudscraper
+# google-genai
+# openai
+# ftfy
+# playwright # also install chromium with: playwright install chromium
+# celery 
+# redis 
+# django-celery-beat
+# aiohttp  # For async HTTP requests (optional, for future async scraping)
+
+# Django REST Framework
+# djangorestframework
+# django-filter
+# drf-spectacular  # OpenAPI/Swagger documentation
+# python-decouple 
+# django-cors-headers
+# djangorestframework-simplejwt
+
+django-extensions 
+pydot

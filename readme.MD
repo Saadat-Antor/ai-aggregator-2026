@@ -37,7 +37,7 @@ For technical auditing, please review the following core structural files:
 
 * `models.py` - Demonstrates complex relational database mapping, custom model methods, and hierarchical data structuring using the Django ORM.
 * `services.py` *(or your equivalent logic file)* - Contains the asynchronous data scraping logic, LLM prompt engineering, and content hashing deduplication mechanisms.
-* `views.py` / `api.py` - Showcases the RESTful API endpoints designed to serve structured insights to the frontend with sub-second latency.
+* `views.py` - Showcases the RESTful API endpoints designed to serve structured insights to the frontend with sub-second latency.
 
 ---
 

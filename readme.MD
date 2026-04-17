@@ -8,7 +8,7 @@
 
 ## 📊 Database Architecture
 
-![Database Schema Diagram]("D:\MY FILES\AI_AGGREGATOR_WEBAPP\backend\ai_aggregator_erd.png")
+![AI Aggregator Database Schema Diagram](ai_aggregator_erd.png)
 
 ## ⚙️ Target Tech Stack
 * **Framework:** Django / Django REST Framework (DRF)
